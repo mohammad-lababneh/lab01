@@ -1,0 +1,12 @@
+nav ul li {
+    border: 1px solid rgb(255, 0, 140);
+    display: inline-block;
+    width: 100px;
+  }
+  #userName {
+    font-size: 35px;
+    display: inline-block;
+    width: 300px;
+    border: 1px solid green;
+  }
+  body {background-color: rgb(184, 163, 155);}
